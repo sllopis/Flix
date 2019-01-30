@@ -26,4 +26,4 @@ Here's a walkthrough of implemented user stories:
 GIF created with [Giphy](https://giphy.com).
 
 ### Notes
-Describe any challenges encountered while building the app.
+It was challenging to understand the details. For example, how to fit the image perfectly, so the layout of the app looks nicely.
